@@ -15,7 +15,7 @@ export default function Menu({ translateY }) {
                 <QRCode
                     value="https://github.com/fernandosini"
                     bgColor="#fff"
-                    fgColor="#0000e5"
+                    fgColor="#151313"
                 />
             </Code>
             <Nav>

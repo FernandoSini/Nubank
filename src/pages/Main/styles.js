@@ -3,8 +3,8 @@ import { getStatusBarHeight } from 'react-native-iphone-x-helper'
 import { Animated } from 'react-native'
 
 export const Container = styled.SafeAreaView`
- 
-  background: #0000e5;
+  background:#151313;
+  /*background: #0000e5; azul */
   padding-top:${getStatusBarHeight()}px;
   height: 100%;
   justify-content: center;
