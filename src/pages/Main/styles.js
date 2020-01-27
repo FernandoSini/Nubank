@@ -11,7 +11,6 @@ export const Container = styled.SafeAreaView`
 `;
 //no z-index quando o conteúdo for arrastado vai passar por cima dos outros componentes
 export const Content = styled.View`
-  
   max-height: 400px;
   z-index: 5; 
   margin-bottom: 50px;
