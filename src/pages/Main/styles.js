@@ -18,7 +18,6 @@ export const Content = styled.View`
 
 //apartir do position está fazendo o menuzin ficar por baixo do card 
 export const Card = styled(Animated.View)`
-  
     background: #fff;
     border-radius: 4px;
     margin: 0 20px;
