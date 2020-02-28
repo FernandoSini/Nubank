@@ -7,7 +7,7 @@ import Tabs from '~/components/Tabs'
 import Icon from 'react-native-vector-icons/MaterialIcons'
 import Menu from '~/components/Menu'
 
-import { Animated } from 'react-native'
+import { Animated} from 'react-native'
 import { PanGestureHandler, State } from 'react-native-gesture-handler' // pan-gesture-handler detecta a ação de arrastar
 import { SafeAreaView } from 'react-navigation';
 
