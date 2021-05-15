@@ -19,7 +19,7 @@
     "react-native-qrcode": "wanxsb/react-native-qrcode#1a08f9cedcb747fd230be717fe815c686e4427cb",
     "react-native-qrcode-generator": "^1.1.0",
     "react-native-vector-icons": "^6.6.0",
-    "react-native-webview": "^8.0.5",
+    "react-native-webview": "^11.0.0",
     "react-navigation": "^4.0.10",
     "reactotron-react-native": "^4.0.3",
     "styled-components": "^5.0.0"
